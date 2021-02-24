@@ -1,2 +1,2 @@
 # ReCapProject
-Engin Demiroğ Yazılımcı Kampı Tekrar Projesi
+Engin Demiroğ Yazılımcı Kampı Ara Tekrar Projesi
